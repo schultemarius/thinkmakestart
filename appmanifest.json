@@ -1,0 +1,10 @@
+{
+	"name": "TMS Master",
+	"short_name": "TMS Master",
+	"description": "test",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": []
+}
